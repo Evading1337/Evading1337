@@ -1,79 +1,101 @@
-👋 Hi, ich bin Evading
+<div align="center">
 
-💻 Cybersecurity Researcher | Red & Purple Team Operator | SaaS-Builder
+# 🕶️ Evading
 
-🔒 Spezialisiert auf Offensive Security, Digital Forensics & Threat Simulation
-🚀 Gründer von 4am Knowledge – praxisnahe Plattform für Malware-Analyse, Exploit-Entwicklung & Cybersecurity-Strategien
-📚 Autor von CTF-Writeups, Tools & Trainingsmaterialien für Fortgeschrittene
+💻 **Cybersecurity Researcher** · 🔴🟣 **Red & Purple Team Operator** · 🚀 **SaaS-Builder**
 
-⚙️ Core Expertise
+⚔️ *Offensive Security* · 🧬 *Malware & Exploit Dev* · 🔍 *Forensics*
 
-Cybersecurity Domains:
+</div>
 
-Red Team Operations & Threat Simulation
+---
 
-Purple Team Strategy & Incident Response
+## 👋 About
 
-Malware Analysis & Reverse Engineering
+🔒 Fokus auf **Offensive Security**, **Digital Forensics** und **Threat Simulation**.
 
-Digital Forensics & Threat Hunting
+🌙 Gründer von **4am Knowledge** – praxisnahe Plattform für **Malware-Analyse**, **Exploit-Entwicklung** & **Cybersecurity-Strategien**.
 
-Technical Stack:
+📚 Autor von **CTF-Writeups**, **Security-Tools** & **Trainingsmaterial** für fortgeschrittene Practitioner.
 
-Web & SaaS: Next.js, JavaScript, HTML5
+---
 
-Systems & Low-Level: C++, C, Assembly
+## ⚙️ Core Expertise
 
-Tools & Platforms: Git, Docker, Linux, IDA Pro, Ghidra, x64dbg, Wireshark
+### 🔴🟣 Red / Purple Team
 
-Key Skills:
+* 🎯 Threat Simulation & Adversary Emulation
+* 🚨 Incident Response & Detection Engineering
 
-Exploit Development & Vulnerability Research
+### 💥 Offensive Security
 
-Threat Intelligence & Attack Simulation
+* 🧨 Exploit Development & Vulnerability Research
+* 🧬 Malware Analysis & Reverse Engineering
 
-Security Automation & Custom Tooling
+### 🔍 Forensics & Threat Hunting
 
-📂 Selected Projects
+* 💾 Memory & Disk Forensics
+* 🕵️ Post-Exploitation Analysis
 
-4am Knowledge – Plattform für Advanced Cybersecurity
+---
 
-Praxisnahe Kurse zu Malware, Exploits & Digital Forensics
+## 🧰 Tech Stack
 
-Hands-On Labs, CTF-Writeups, Trainingsmaterial
+### 🧠 Systems & Low-Level
 
-Ziel: Offensive & Defensive Security in realistischen Szenarien trainieren
+`C` · `C++` · `Assembly`
 
-Evading AI – KI-gestützte Cybersecurity Tools
+### 🌐 Web / SaaS
 
-Automatisierung von Threat Simulation, Purple-Team Operationen & Forensik
+`Next.js` · `JavaScript` · `HTML5`
 
-Fokus auf Effizienzsteigerung bei Security Assessments
+### 🛠️ Tooling
 
-Mid-Level & Systems Development
+`Linux` · `Git` · `Docker`
+`IDA Pro` · `Ghidra` · `x64dbg` · `Wireshark`
 
-Experimente in C/C++ & Assembly, Reverse Engineering & Custom Tools
+---
 
-Ziel: tiefes Verständnis von Systemarchitektur & Exploit-Techniken
+## 📂 Projects
 
-🧭 Philosophy & Approach
+### 🌙 4am Knowledge
 
-„Angriff verstehen, Verteidigung meistern, Lösungen transparent entwickeln“
+**Advanced Cybersecurity Platform**
 
-✅ Open-Source & Collaboration
+* 🧬 Malware, Exploits & Digital Forensics
+* 🧪 Hands-On Labs & CTF-Writeups
+* ⚔️ Realistische Red- & Blue-Team-Szenarien
 
-✅ Responsible Offensive & Defensive Security
+### 🤖 Evading AI
 
-✅ Effizienter, dokumentierter Code
+**AI-gestützte Security-Tools**
 
-✅ Praxisnahes Lernen & CTF-Strategien
+* ⚙️ Automatisierte Threat Simulation
+* 🟣 Purple-Team Workflows
+* 🔍 Forensik-nahe Analyse
 
-📈 Highlights & Achievements
+### ⚙️ Systems & Research
 
-+1/2 Jahre Erfahrung in Red & Purple Team Operations
+* 🧠 Low-Level Research & Custom Tooling
+* 🔍 Reverse Engineering
+* 🎯 Fokus: Systemarchitektur & Exploit-Techniken
 
-Teilnahme an >50 CTFs, mit mehrfachen Podium-Platzierungen
+---
 
-Open-Source Contributor & Tool Developer
+## 🧭 Philosophy
 
-Bug Bounties & Security Research für renommierte Unternehmen
+> ⚔️ Angriff verstehen. 🛡️ Verteidigung meistern. 🔎 Lösungen transparent entwickeln.
+
+* 🌍 Open Source & Collaboration
+* ⚖️ Responsible Offensive & Defensive Security
+* 📐 Klarer, dokumentierter Code
+* 🧪 Praxisnahes Lernen & CTF-getriebener Ansatz
+
+---
+
+## 📈 Highlights
+
+* 🔥 1–2 Jahre Red & Purple Team Operations
+* 🏆 15+ CTFs · mehrfach Podium
+* 🛠️ Open-Source Contributor
+* 🐞 Bug Bounties & Security Research
